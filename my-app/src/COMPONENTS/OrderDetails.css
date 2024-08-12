@@ -1,0 +1,34 @@
+.order-details {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .order-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #fff;
+  }
+  
+  .order-card h3 {
+    margin-top: 0;
+  }
+  
+  .order-card p,
+  .order-card ul {
+    margin: 5px 0;
+  }
+  
+  .order-card ul {
+    padding-left: 20px;
+  }
+  
+  .order-card label {
+    margin-right: 10px;
+  }
+  
+  .order-card select {
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
